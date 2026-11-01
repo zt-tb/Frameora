@@ -42,7 +42,7 @@ You send a video to the bot, pick a method, and receive a prepared MP4 file. By 
 
 ## How to use it
 
-1. Open the bot on Telegram: `https://t.me/YOUR_BOT_USERNAME` and send `/start`.
+1. Open the bot on Telegram and send `/start`.
 2. Send your video **as a file** (not as a normal video) so Telegram does not compress it. MP4 and MOV are supported.
 3. Choose a method: Spark, Blaze or Pulse.
 4. Wait for the bot to process the video, then download the returned file.
