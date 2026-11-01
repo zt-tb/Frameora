@@ -1,0 +1,20 @@
+{
+  "title": "Frameora",
+  "upload_type": "software",
+  "description": "Telegram bot that prepares videos for high frame-rate TikTok uploads. Supports Iraqi Arabic and English, integrity-checked processing, quality comparison with the published video, and Telegram Stars payments with automatic refunds.",
+  "creators": [
+    {
+      "name": "Al-Taie, Mohsen"
+    }
+  ],
+  "license": "Apache-2.0",
+  "access_right": "open",
+  "keywords": ["telegram-bot", "tiktok", "ffmpeg", "video-processing", "python"],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/zt-tb/Frameora",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
